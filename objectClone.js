@@ -1,5 +1,5 @@
 function deepClone(obj) {
-	var clone = {};
+	let clone = {};
 	
 	function cloneArray(arr){
 		let clonedArr = [];
